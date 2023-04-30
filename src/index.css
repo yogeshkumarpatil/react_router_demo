@@ -21,3 +21,10 @@ nav a{
   text-decoration: none;
   font-size: 20px;
 }
+
+/* this same css also available in js */
+/* nav a.active{
+  font-weight: bold;
+  font-size: 23px;
+  color: red;
+} */
